@@ -1,0 +1,22 @@
+{
+  "name": "socket-io-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markclynch/socket-io-practice.git"
+  },
+  "author": "Mark Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markclynch/socket-io-practice/issues"
+  },
+  "homepage": "https://github.com/markclynch/socket-io-practice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
